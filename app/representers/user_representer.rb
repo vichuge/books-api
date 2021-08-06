@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class UserRepresenter
   def initialize(user)
     @user = user
